@@ -57,7 +57,7 @@ AppointmentManager/
  Clone the repository
 
 
-git clone https://github.com/your-username/appointment-manager.git
+git clone https://github.com/MohithKumar223/Appointment-Booking-Queue-Manager-GUI.git
 cd appointment-manager
 ```
 
